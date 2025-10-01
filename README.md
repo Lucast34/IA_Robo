@@ -1,3 +1,3 @@
 # ia robo 
 
-Karyna
+Karyna pip 
