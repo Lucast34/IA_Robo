@@ -1,0 +1,11 @@
+Cebola,tomate e pimentão
+
+Objetivo vai ser o robô indetificar 
+os legumes, verduras e frutas.
+
+1- Nosso data set vai ser três fotos destintas
+2- Treinar o modelo com essas fotos(pode usar o tensorflow)
+2,2- Usar o celular com web cam para usar aa fotos
+3- Assim que modelo for treinado, sera disponibilizado para ESP32
+4- Com o modelo treinado, passamos para o tensorflow lite
+
